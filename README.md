@@ -80,10 +80,6 @@ The model achieved high accuracy on the test dataset, successfully distinguishin
 
 Feel free to contribute by opening issues or submitting pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ---
 
 *This README is designed to clearly explain the purpose and usage of the project for other developers and users.*
